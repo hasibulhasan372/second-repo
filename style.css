@@ -9,5 +9,14 @@ p{
     color: teal;
     border: 1px solid tomato;
     padding: 20px;
+
+}
+.git_publish h2{
+    color: #fff;
+    border: 1px solid red;
+    padding: 20px;
+    margin-top: 50px;
+    background: #000;
+    font-size: 26px;
     
 }
